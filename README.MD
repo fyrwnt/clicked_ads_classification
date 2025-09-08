@@ -1,7 +1,7 @@
 ## This is a Project Based Intership supported by Rakamin Academy
 
 # Overview
-Project ini bertujuan untuk memahami perilaku pelanggan terhadap iklan digital. Dengan eksplorasi data, analisis statistik, dan visualisasi, project ini membantu menemukan pola siapa yang cenderung mengklik iklan dan siapa yang tidak. Insight ini dapat digunakan untuk meningkatkan efektivitas strategi pemasaran dan targeting iklan.  
+This projects aims to understand customer behavior to digital ads. By exploring data, statistical analysis, and visualization, this project helps find patterns determining suitable customer who is likely to click on ads and who is not. These insights can be used to improve the effectiveness of marketing strategies and ad targeting.
 
 # 📂 Task Project  
 **Task 1**
@@ -15,7 +15,9 @@ Project ini bertujuan untuk memahami perilaku pelanggan terhadap iklan digital. 
 - Segmentation based on age and digital behavior can increase marketing effectiveness and efficiency.
 
 **Task 2**
-  - 
+- Cleaning the data (null and duplicate)
+- Extracting timeframe and encoding the data
+- Splitting the dataset to prepare for model training and evaluation
 
 **Task 3**
   - 

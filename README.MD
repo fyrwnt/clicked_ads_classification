@@ -20,15 +20,13 @@ This projects aims to understand customer behavior to digital ads. By exploring 
 - Splitting the dataset to prepare for model training and evaluation
 
 **Task 3**
-  - 
+- Create model (Random Forest in this case)
+- Explain Findings (In PDF file)
 
 **Task 4** 
-  - 
+- 
 
-**Task 5**
-  - 
-
-## 📌 Insight Umum  
-- Usia lebih tua → lebih tinggi kemungkinan klik iklan.  
-- Internet usage & waktu di site tinggi → lebih rendah kemungkinan klik.  
-- Segmentasi berdasarkan usia dan perilaku digital penting untuk meningkatkan efektivitas iklan.  
+## 📌 Main Insight
+- Older people are more likely to click on ads.
+- People with high internet usage and time on site are less likely to click on ads.
+- Segmentation based on age and internet behavior are crucial to increase ads effectivenes

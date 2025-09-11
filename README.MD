@@ -24,9 +24,11 @@ This projects aims to understand customer behavior to digital ads. By exploring 
 - Explain Findings (In PDF file)
 
 **Task 4** 
-- 
+- Business recommendation
+- Business Simulation with and without ML
 
 ## 📌 Main Insight
 - Older people are more likely to click on ads.
 - People with high internet usage and time on site are less likely to click on ads.
 - Segmentation based on age and internet behavior are crucial to increase ads effectivenes
+- Using ML could increase ROI on ads targeting
